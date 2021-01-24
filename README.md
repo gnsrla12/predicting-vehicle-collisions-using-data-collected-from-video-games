@@ -1,5 +1,5 @@
-## Crash to Not Crash: Learn to Identify Dangerous Vehicles using a Simulator
-### [Tensorflow](https://github.com/gnsrla12/CrashToNotCrash_code) | [Project page](https://sites.google.com/view/crash-to-not-crash) |   [Paper](http://csuh.kaist.ac.kr/Suh_Crash_AAAI.pdf)
+## Predicting Vehicle Collisions using Data Collected from Video Games
+### [Tensorflow](https://github.com/gnsrla12/predicting_vehicle_collsiions_using_data_collected_from_video_games)
 
 <p align="center">
   <img src="movie.gif">
@@ -10,8 +10,8 @@
 - Install tensorflow
 - Clone this repo:
 ```bash
-git clone https://github.com/gnsrla12/crash_to_not_crash
-cd crash_to_not_crash
+git clone https://github.com/gnsrla12/predicting_vehicle_collsiions_using_data_collected_from_video_game
+cd predicting_vehicle_collsiions_using_data_collected_from_video_game
 ```
 
 ### Prepare Dataset
