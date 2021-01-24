@@ -25,8 +25,8 @@ python ./datasets/download_gtacrash.py
 ```
 You can skip downloading GTACrash if you just want to apply pretrained model to YouTubeCrash.
 
-- If the code above, doesn't work download manually from links below.
-[GTACrash - accident (part1)	Images (2.8 G)](https://drive.google.com/file/d/1xTqFxguYxvF8zf7_e_clAq2GTq1Wi3vC/view)  
+- If the code above, doesn't work download manually from links below.  
+  - [GTACrash - accident (part1)	Images (2.8 G)](https://drive.google.com/file/d/1xTqFxguYxvF8zf7_e_clAq2GTq1Wi3vC/view)  
 [GTACrash - accident (part1)	Labels (24.1 M)](https://drive.google.com/file/d/1LKHVBPeadPzbMZjsXyALD0ERMyayq1vv/view)  
 [GTACrash - accident (part2)	Images (2.8 G)]()  
 [GTACrash - accident (part2)	Labels (23.8 M)]()  
