@@ -1,5 +1,5 @@
 ## Predicting Vehicle Collisions using Data Collected from Video Games
-### [Tensorflow](https://github.com/gnsrla12/predicting_vehicle_collsiions_using_data_collected_from_video_games)
+### [Tensorflow](https://github.com/gnsrla12/predicting-vehicle-collisions-using-data-collected-from-video-games)
 
 <p align="center">
   <img src="movie.gif">
